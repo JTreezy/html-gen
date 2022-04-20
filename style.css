@@ -1,0 +1,22 @@
+body {
+    background: salmon; 
+    text-align: center;
+}
+
+h1{
+    font-size: 5rem;
+}
+p{
+    font-size: 3rem;
+}
+a {
+    text-decoration: none;
+    font-size: 3rem;
+    background: black;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+}
+a:hover {
+    background: aqua;
+}
